@@ -1,5 +1,5 @@
 
-let messages = ["Huy thấy nhớ em"];
+let messages = ["Huy thấy nhớ che"];
 
 function generateRandomNotifications() {
     let notificationCount = 100;
